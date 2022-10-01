@@ -17,7 +17,7 @@ section {
     float: left;
     border: 1px solid black;
     position: relative;
-    margin-bottom: 5px;
+    margin: 5px;
     background-color: cadetblue;
     font-size: 25%;
 }
